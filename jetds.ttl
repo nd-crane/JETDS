@@ -1,0 +1,43 @@
+@base <https://w3id.org/moo/voc/mooVoc> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix moo: <http://w3id/org/moo/ont/> .
+@prefix moo1: <https://w3id.org/moo/ont/moo/> .
+@prefix moo2kilo: <https://w3id.org/moo/kg/2kilos/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sdo: <https://schema.org/sdo/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix vann: <http://purl.org/vocab/vann> .
+@prefix wd1: <http://wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://w3id.org/moo/ont/moo> a owl:Ontology ;
+    dcterms:created "2022-02-15"^^xsd:date ;
+    dcterms:creator [ a sdo:Person ;
+            sdo:affiliation "University of Notre Dame" ;
+            sdo:email "ccunnin8@nd.edu"^^xsd:anyURI ;
+            sdo:name "Chandler J. Cunningham" ;
+            sdo:url "https://orcid.org/0000-0002-5013-9516"^^xsd:anyURI ] ;
+    dcterms:description "Vocabulary to support disambiguation of systems and subsystems in accordance with the Army/Navy JETDS"@en ;
+    dcterms:license <https://spdx.org/licenses/CC-BY-4.0> ;
+    dcterms:modified "2022-02-21"^^xsd:date ;
+    dcterms:publisher [ a sdo:Organization ;
+            owl:sameAs wd1:Q178848 ;
+            sdo:name "Center for Research Computing, University of Notre Dame" ;
+            sdo:url "https://crc.nd.edu"^^xsd:anyURI ],
+        wd1:Q178848 ;
+    dcterms:rights "This vocabulary is distributed under Creative Commons Attribution 4.0 License - http://creativecommons.org/licenses/by/4.0"@en ;
+    dcterms:title "JETDS Vocabulary"@en ;
+    vann:preferredNamespacePrefix "mooVoc"@en ;
+    vann:preferredNamespaceUri "https://w3id.org/moo/voc/mooVoc/" ;
+    rdfs:seeAlso "https://electronicstechnician.tpub.com/14344/Figure-13-15-Ship-S-Maintenance-Action-Form-Opnav-4790-2K-479.html"@en,
+        "https://www.secnav.navy.mil/doni/Directives/04000%20Logistical%20Support%20and%20Services/04-700%20General%20Maintenance%20and%20Construction%20Support/4790.15E.pdf"@en ;
+    owl:versionIRI moo2kilo:0.1.0 ;
+    owl:versionInfo "0.1.0"@en ;
+    skos:historyNote "Version 0.0.1 is the first release of the core ontology constructed from the Agent, Event, and Designed Artifact System Patterns"@en ;
+    sdo:license "https://spdx.org/licenses/CC-BY-4.0"@en .
+
+#Write Provenance Chain to link with Winston Part-Whole ODP
+

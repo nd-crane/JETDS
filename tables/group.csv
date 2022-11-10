@@ -1,3 +1,26 @@
-,0,1,2
-0,,A N / A R C  - 7 3,
-1,,,
+,0,Indicator,Group example of use indicators,Family name
+1,1,OA,Miscellaneous groups,"Groups not otherwise listed.  Do not use if a 
+more specific group indicator applies"
+2,2,OB,Multiplexer and/or demultiplexer groups,All types
+3,3,OD,Indicator groups,All types
+4,4,OE,Antenna groups,All Types
+5,5,OF,Adapter groups,All types
+6,6,OG,Amplifier groups,All types
+7,7,OH,Simulator groups,All types
+8,8,OI,Cryptographic groups,All types
+9,9,OJ,Consoles and console groups,All types
+10,10,OK,Control groups,All types
+11,11,OL,Data analysis and data processing groups,All types
+12,12,OM,Modulator and/or demodulator groups,All types
+13,13,ON,Interconnecting groups,All types
+14,14,OP,Power Supply groups,All non-rotating types
+15,15,OQ,Test-Set Group,All types
+16,16,OR,Receiver groups,All types
+17,17,OS,Satellite groups,All types
+18,18,OT,Transmitter groups,All types
+19,19,OU,Converter groups,All types
+20,20,OV,Generator groups,All types including power generating equipment
+21,21,OW,Terminal groups,"Telegraph, radio, telephone, etc."
+22,22,OX,"Coder, recoder, interrogator, transponder groups",All types
+23,23,OY,Radar Groups,Do not use if more specific indicator applies
+24,24,OZ,Radio Groups,"Do not use if a more specific indicator (OE, OR, OT) applies"

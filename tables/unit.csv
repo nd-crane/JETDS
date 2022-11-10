@@ -1,197 +1,184 @@
-,0,1,2
-0,Unit indicators,Family name,"Examples of use 
+,0,Unit indicators,Family name,"Examples of use 
 (Not to be construed as limiting the 
 application of the unit)"
-1,AB,Support for antennas,"Antenna mounts, mast bases, mast 
+1,1,AB,Support for antennas,"Antenna mounts, mast bases, mast 
 sections, towers, etc."
-2,AM,Amplifiers,"Power, audio, interphone, radio 
+2,2,AM,Amplifiers,"Power, audio, interphone, radio 
 frequency, video, electronic 
 control, etc."
-3,AS,"Antenna, simple and complex","Arrays, parabolic type, masthead 
+3,3,AS,"Antenna, simple and complex","Arrays, parabolic type, masthead 
 whip or telescopic loop, dipole, 
 reflector, etc."
-4,BA,"Battery, primary type","Batteries, battery packs, etc."
-5,BB,"Battery, secondary type","Batteries, battery packs, etc."
-6,BZ,Alarm units,All types
-7,C,Controls,"Control box, remote tuning 
+4,4,BA,"Battery, primary type","Batteries, battery packs, etc."
+5,5,BB,"Battery, secondary type","Batteries, battery packs, etc."
+6,6,BZ,Alarm units,All types
+7,7,C,Controls,"Control box, remote tuning 
 control, etc."
-8,CA,Computers auxiliary units,"Input/output peripheral, etc."
-9,CC,"Cable assemblies, RF","RF cables, waveguides, 
+8,8,CA,Computers auxiliary units,"Input/output peripheral, etc."
+9,9,CC,"Cable assemblies, RF","RF cables, waveguides, 
 transmission lines, etc., with 
 terminals"
-10,CD,Controlling Devices,Complex controlling devices
-11,CM,Comparators,"Compares two or more input 
+10,10,CD,Controlling Devices,Complex controlling devices
+11,11,CM,Comparators,"Compares two or more input 
 signals"
-12,CN,Compensators,"Electrical and/or mechanical 
+12,12,CN,Compensators,"Electrical and/or mechanical 
 compensating,  regulating  or 
 attenuating apparatus"
-13,CP,Computers,"A mechanical and/or electronic 
+13,13,CP,Computers,"A mechanical and/or electronic 
 mathematical calculating device"
-14,CU,Couplers,"Impedance coupling devices, 
+14,14,CU,Couplers,"Impedance coupling devices, 
 directional couplers, etc."
-15,CV,Converters (electronic),"Electronic apparatus for changing 
+15,15,CV,Converters (electronic),"Electronic apparatus for changing 
 the phase frequency, or from “one” 
 medium to “another”"
-16,CW,Radomes,Radomes
-17,CX,"Cable assemblies, non RF","Non RF cables with terminals, test 
+16,16,CW,Radomes,Radomes
+17,17,CX,"Cable assemblies, non RF","Non RF cables with terminals, test 
 leads, also composite cables or RF 
 and non RF conductors"
-18,CY,Cases and cabinets,"Rigid and semi-rigid structure 
+18,18,CY,Cases and cabinets,"Rigid and semi-rigid structure 
 for enclosing or carrying"
-19,D,Dispensers,equipment
-20,DA,"Loads, dummy",RF and non RF test loads
-0,Unit indicators,Family name,"Examples of use 
-(Not to be construed as limiting the 
-application of the unit)"
-1,DI,Data transmission,"Devices for authentication and 
+19,19,D,Dispensers,equipment
+20,20,DA,"Loads, dummy",RF and non RF test loads
+22,1,DI,Data transmission,"Devices for authentication and 
 transferring recorded or generated 
 data over transmitter/receiver 
 links."
-2,DT,Detecting heads,"Magnetic, capacitive or optical 
+23,2,DT,Detecting heads,"Magnetic, capacitive or optical 
 pickup devices, search coil, 
 hydrophones, etc."
-3,DU,Display Unit/Monitors,"All types that are external devices 
+24,3,DU,Display Unit/Monitors,"All types that are external devices 
 for computers, test sets, etc."
-4,F,Filter units,"Electronic types, back-pass, low 
+25,4,F,Filter units,"Electronic types, back-pass, low 
 pass, band suppression, noise 
 telephone, filter networks; 
 excludes non-repairable types"
-5,FO,Fiber Optics,"Electrical, electronic and 
+26,5,FO,Fiber Optics,"Electrical, electronic and 
 communication"
-6,FR,Frequency measuring device,"Frequency meters, tuned cavity"
-7,G,"Generators, power","Electrical power generators 
+27,6,FR,Frequency measuring device,"Frequency meters, tuned cavity"
+28,7,G,"Generators, power","Electrical power generators 
 without prime movers (see PU)"
-8,GO,Goniometers,"Instruments for measuring angles 
+29,8,GO,Goniometers,"Instruments for measuring angles 
 for determination of energy 
 transferred from moving to fixed 
 coil (directional) antennas, etc."
-9,H,"Head, hand and chest sets",Includes earphone
-10,HD,Environmental Apparatus,"Heating, cooling, dehumidifying, 
+30,9,H,"Head, hand and chest sets",Includes earphone
+31,10,HD,Environmental Apparatus,"Heating, cooling, dehumidifying, 
 pressure, vacuum devices, etc."
-11,ID,"Indicator units, non-cathode ray 
+32,11,ID,"Indicator units, non-cathode ray 
 tube","Calibrated dials and meters, 
 indicating lights, etc. (see also IP)"
-12,IM,Intensity measuring devices,"Includes SWR gear, field intensity 
+33,12,IM,Intensity measuring devices,"Includes SWR gear, field intensity 
 noise meters, slotted lines, etc."
-13,IP,"Indicator units, cathode ray tube","Azimuth, elevation, panoramic, 
+34,13,IP,"Indicator units, cathode ray tube","Azimuth, elevation, panoramic, 
 etc."
-14,J,Interface units,"Interconnecting and junction units, 
+35,14,J,Interface units,"Interconnecting and junction units, 
 etc.  Do not use if a more specific 
 indicator applies."
-15,KG,Key generator,"Units generating a pseudorandom 
+36,15,KG,Key generator,"Units generating a pseudorandom 
 sequence of crypto variables using 
 algorithms"
-16,KY,Keying devices,"Mechanical, electrical and 
+37,16,KY,Keying devices,"Mechanical, electrical and 
 electronic key coders, interrupters, 
 etc."
-0,Unit indicators,Family name,"Examples of use 
-(Not to be construed as limiting the 
-application of the unit)"
-1,LA,Laser,"Communication, electrical, etc."
-2,LS,Loudspeakers,"Separately housed loudspeakers and 
+39,1,LA,Laser,"Communication, electrical, etc."
+40,2,LS,Loudspeakers,"Separately housed loudspeakers and 
 intercommunication stations"
-3,M,Microphones,"Radio, telephone, throat, hand, etc."
-4,MD,"Modulators, demodulators, 
+41,3,M,Microphones,"Radio, telephone, throat, hand, etc."
+42,4,MD,"Modulators, demodulators, 
 discriminators","Devices for varying amplitude, 
 frequency or phase"
-5,ME,Meters,"Multimeter, vacuum tube voltmeters, 
+43,5,ME,Meters,"Multimeter, vacuum tube voltmeters, 
 power  meters,  volt-ohm-millimeters, 
 etc."
-6,MK,Miscellaneous kits,"Maintenance, modification, etc."
-7,ML,Meteorological devices,"Miscellaneous meteorological 
+44,6,MK,Miscellaneous kits,"Maintenance, modification, etc."
+45,7,ML,Meteorological devices,"Miscellaneous meteorological 
 equipment, etc."
-8,MO,Multipurpose,"Units that perform two or more 
+46,8,MO,Multipurpose,"Units that perform two or more 
 functions"
-9,MT,Mountings,"Mountings, racks, frames, stands, etc."
-10,MU,Memory units,Memory units
-11,MW,Microwave,"Communication, etc."
-12,MX,Miscellaneous,"Equipment not otherwise classified. 
+47,9,MT,Mountings,"Mountings, racks, frames, stands, etc."
+48,10,MU,Memory units,Memory units
+49,11,MW,Microwave,"Communication, etc."
+50,12,MX,Miscellaneous,"Equipment not otherwise classified. 
 Do not use if a better indicator is 
 available."
-13,O,Oscillators,"Master frequency, blocking, multi- 
+51,13,O,Oscillators,"Master frequency, blocking, multi- 
 vibrators, etc. (for test oscillators see 
 SG)"
-14,OC,Oceanographic devices,"Bathythermograph, etc."
-15,OS,"Oscilloscope, test","Test oscilloscope for general test 
+52,14,OC,Oceanographic devices,"Bathythermograph, etc."
+53,15,OS,"Oscilloscope, test","Test oscilloscope for general test 
 purposes (see IP)"
-16,PL,Plug-in units,Plug-in units not otherwise classified
-17,PP,Power supplies,"Non-rotating machine types, such as 
+54,16,PL,Plug-in units,Plug-in units not otherwise classified
+55,17,PP,Power supplies,"Non-rotating machine types, such as 
 vibrator pack rectifier, thermoelectric, 
 etc."
-18,PT,Mapping and plotting units,Electronic types only
-19,PU,Power equipment,"Rotating power equipment, motor- 
+56,18,PT,Mapping and plotting units,Electronic types only
+57,19,PU,Power equipment,"Rotating power equipment, motor- 
 generators, dynamotors, etc."
-20,R,Receivers,"Receivers, all types except telephone"
-21,RB,Robotics,"Electric-mechanical, etc."
-22,RD,Recorder-reproducers,"Sound, graphic, tape, wire, film, disc, 
+58,20,R,Receivers,"Receivers, all types except telephone"
+59,21,RB,Robotics,"Electric-mechanical, etc."
+60,22,RD,Recorder-reproducers,"Sound, graphic, tape, wire, film, disc, 
 facsimile, magnetic, mechanical, etc."
-0,Unit indicators,Family name,"Examples of use 
-(Not to be construed as limiting the 
-application of the unit)"
-1,RE,Relay assembly units,"Electrical, electronic, etc."
-2,RL,Reeling machines,"Mechanism for dispensing and 
+62,1,RE,Relay assembly units,"Electrical, electronic, etc."
+63,2,RL,Reeling machines,"Mechanism for dispensing and 
 rewinding antenna or field wire 
 cable, etc."
-3,RO,Recorders,"Sound, graphic, tape, wire, film 
+64,3,RO,Recorders,"Sound, graphic, tape, wire, film 
 disc, facsimile, magnetic, 
 mechanical, tape, and card punch, 
 etc."
-4,RP,Reproducers,"Sound, graphic, tape, wire, film, 
+65,4,RP,Reproducers,"Sound, graphic, tape, wire, film, 
 disc, facsimile, magnetic, 
 mechanical, punched tape and card 
 readers, etc."
-5,RR,Reflectors,"Target, confusion, etc., except 
+66,5,RR,Reflectors,"Target, confusion, etc., except 
 antenna reflectors (see AS)"
-6,RT,Receiver and transmitter,"Radio and radar transceiver, 
+67,6,RT,Receiver and transmitter,"Radio and radar transceiver, 
 composites of transmitter and 
 receiver, etc."
-7,S,Shelter,"Electrical equipment, etc."
-8,SA,Switching units,"Manual, impact, motor driven, 
+68,7,S,Shelter,"Electrical equipment, etc."
+69,8,SA,Switching units,"Manual, impact, motor driven, 
 pressure operated, electronic, etc."
-9,SB,Switchboard,"Telephone, fire control, power 
+70,9,SB,Switchboard,"Telephone, fire control, power 
 distribution, etc."
-10,SG,"Generator, signal","Test oscillators, noise generators, 
+71,10,SG,"Generator, signal","Test oscillators, noise generators, 
 etc. (see O)"
-11,SM,Simulators,"Flight, aircraft, target, signal, etc."
-12,SN,Synchronizers,"Equipment to coordinate two or 
+72,11,SM,Simulators,"Flight, aircraft, target, signal, etc."
+73,12,SN,Synchronizers,"Equipment to coordinate two or 
 more functions"
-13,SS,Special purpose,"Devices performing unique 
+74,13,SS,Special purpose,"Devices performing unique 
 functions"
-14,SU,Optical units,"Electro-optical units, such as night 
+75,14,SU,Optical units,"Electro-optical units, such as night 
 vision, scope, sights, auto- 
 collimator, viewers, trackers, 
 alignment equipment"
-15,SY,"Speech, secure","Devices that secure voice 
+76,15,SY,"Speech, secure","Devices that secure voice 
 transmission/receiving equipment"
-16,T,Transmitters,"Transmitters, all types except 
+77,16,T,Transmitters,"Transmitters, all types except 
 telephone"
-17,TA,Telephone apparatus,"Miscellaneous telephone 
+78,17,TA,Telephone apparatus,"Miscellaneous telephone 
 equipment"
-0,Unit indicators,Family name,"Examples of use 
-(Not to be construed as limiting the 
-application of the unit)"
-1,TB,Towed body,"Hydrodynamic enclosures used to 
+80,1,TB,Towed body,"Hydrodynamic enclosures used to 
 house transducers, hydrophones, 
 and other electronic equipment"
-2,TD,Timing devices,"Mechanical and electronic timing 
+81,2,TD,Timing devices,"Mechanical and electronic timing 
 devices, range devices, 
 multiplexers, electronic gates, etc."
-3,TF,Transformers,When used as separate units
-4,TG,Positioning devices,Tilt and/or train assemblies
-5,TH,Telegraph apparatus,Miscellaneous telegraph items
-6,TN,Tuning units,"Receiver, transmitter, antenna, 
+82,3,TF,Transformers,When used as separate units
+83,4,TG,Positioning devices,Tilt and/or train assemblies
+84,5,TH,Telegraph apparatus,Miscellaneous telegraph items
+85,6,TN,Tuning units,"Receiver, transmitter, antenna, 
 tuning units, etc."
-7,TR,Transducers,
-8,TS,Test units,"Test and measuring equipment not 
+86,7,TR,Transducers,
+87,8,TS,Test units,"Test and measuring equipment not 
 otherwise classified. Do not use if 
 more specific indicators apply."
-9,TT,"Teletypewriter and facsimile 
+88,9,TT,"Teletypewriter and facsimile 
 apparatus","Teletype, tape, facsimile 
 miscellaneous equipment"
-10,TU,Television,Special types
-11,TW,Tape units,"Preprogrammed with operational 
+89,10,TU,Television,Special types
+90,11,TW,Tape units,"Preprogrammed with operational 
 test and checkout data"
-12,V,Vehicles,"Carts, dollies, vans peculiar to 
+91,12,V,Vehicles,"Carts, dollies, vans peculiar to 
 electronic equipment"
-13,ZM,Impedance measuring devices,"Used for measuring Q, C, L, R, or 
+92,13,ZM,Impedance measuring devices,"Used for measuring Q, C, L, R, or 
 PF, etc."
